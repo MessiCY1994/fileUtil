@@ -45,7 +45,7 @@ mybatis:
 
 #文件服务器地址
 trackerPort: :8080/
-trackerServer: 35.220.217.41
+trackerServer: ip
 trackerProtocol: http://
 file:
   local:
