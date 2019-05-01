@@ -1,7 +1,7 @@
 # fileUtil
 可用于本地文件上传和下载和fastdfs上的文件上传下载。具体参数在FileServiceImpl修改fileStoreService参数（可以为fastDFSStoreServiceImpl或者localStoreFileService）
 
-#本地上传
+# 本地上传
 1:在application.yml中修改
 file:
   local:
